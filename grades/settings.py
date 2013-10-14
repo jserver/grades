@@ -130,6 +130,7 @@ INSTALLED_APPS = (
 
     # 3rd-Party
     'djcelery',
+    'south',
 
     # Mine
     'inspections',
